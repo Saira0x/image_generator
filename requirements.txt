@@ -1,0 +1,8 @@
+gradio
+diffusers
+transformers
+torch
+accelerate
+safetensors
+pillow
+huggingface-hub
